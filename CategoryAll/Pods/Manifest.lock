@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (3.0.1)
+  - MJRefresh (3.1.12)
+  - SnapKit (0.19.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0.0)
+  - MJRefresh
+  - SnapKit (~> 0.19.1)
+
+SPEC CHECKSUMS:
+  Alamofire: 2457e1b2e6c46bb05c3a598c542b7bfd08893775
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  SnapKit: eff58d6e3451bf2f482db2eccf86aecf371dc62d
+
+PODFILE CHECKSUM: 3d521ec00a937f1c6ffaf9e4e0962e74a31aed85
+
+COCOAPODS: 1.1.1
